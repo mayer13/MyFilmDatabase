@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="15ffb31df643afc9e688a3b1c3e46852b5a71c91">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eb1d5b821f14622d4df6e3216b68a5552e54da6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_86995b2ebb6932d8db531ee57ab22d8180ababb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_30ef6e17021410bf8ef83a9ee30e9c09195f01b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_1187f8dcd484b475ec68f680aa71f8c6c78002f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5fb398fd80b41e826e17d5f2b9e642e298bf0a91">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91ad61a2cba14d26962013038510596f741b6ce5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_cacb3f509a2221dd063eb7531ca45ee1722c0cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Lenovo\Desktop\Universitat\IDI\comprimit\MyFilmDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_5c3ba1d3cef1715d0b8cc5504fdff93dc9f5395d\classes.dex" />
+    </item>
+
+</items>
